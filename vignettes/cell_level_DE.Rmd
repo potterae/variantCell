@@ -106,4 +106,4 @@ project$plotSNPHeatmap(
 )
 ```
 
-![](figs/heatmap_JAK1.png)
+![](heatmap_JAK1.png)

@@ -5,10 +5,12 @@ date: "2025-05-12"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Building the SNP database}
-  %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
+  %\VignetteEngine{knitr::rmarkdown}
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
-
 
 # Creating a new variantCell project
 

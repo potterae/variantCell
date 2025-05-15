@@ -186,7 +186,7 @@ project$plotSNPs(
 )
 ```
 
-![](figs/SNP_plot_JAK1.png)
+![](SNP_plot_JAK1.png)
 
 ### Example: Visualizing With Filtered SNPs and Density Plots
 
@@ -201,7 +201,7 @@ project$plotSNPs(
 )
 ```
 
-![](figs/SNP_plot_JAK1_density.png)
+![](SNP_plot_JAK1_density.png)
 
 ```{r, eval=FALSE}
 # Get SNP data for JAK1 as a data frame
