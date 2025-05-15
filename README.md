@@ -1,6 +1,6 @@
 # variantCell 0.1.0 - alpha (in development)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Status: In Development](https://img.shields.io/badge/Status-In%20Development-blue)]()
+[![Documentation](https://img.shields.io/badge/docs-pkgdown-blue.svg)](https://potterae.github.io/variantCell/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Status: In Development](https://img.shields.io/badge/Status-In%20Development-blue)]()
 
 A tool for analyzing single-cell SNP data with focus on organ transplant.
 
@@ -21,6 +21,8 @@ R6, data.table, Matrix, ggplot2, cowplot, GenomicRanges, IRanges, AnnotationHub,
 Seurat: If using Seurat objects as input (not required if using data frames), SingleCellExperiment: If using SingleCellExperiment objects as input Parallel processing findDESNPs function: parallel, doParallel, foreach
 
 ## Getting Started
+
+**Documentation:** [https://potterae.github.io/variantCell/](https://potterae.github.io/variantCell/)
 
 To add samples to the SNP database, the package requires: - An output directory from CellSNP along with cell metadata (as a Seurat object, dataframe, or SingleCellExperiment) - Cell prefixes can be optionally specified when adding sample data to match cell IDs to integrated data
 
