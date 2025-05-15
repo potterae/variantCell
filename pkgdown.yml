@@ -1,0 +1,9 @@
+pandoc: 3.1.11
+pkgdown: 2.1.2
+pkgdown_sha: ~
+articles:
+  build_snp_database: build_snp_database.html
+  cell_level_DE: cell_level_DE.html
+  donor_recipient: donor_recipient.html
+  group_level_DE: group_level_DE.html
+last_built: 2025-05-15T20:00Z
